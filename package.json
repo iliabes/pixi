@@ -1,0 +1,22 @@
+{
+  "name": "pixi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliabes/pixi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliabes/pixi/issues"
+  },
+  "homepage": "https://github.com/iliabes/pixi#readme",
+  "dependencies": {
+    "pixi.js": "^5.3.7"
+  }
+}
